@@ -1,0 +1,42 @@
+.topnav{
+    background: transparent;
+top:27px;    
+background-image:url('/assets/images/circle.png');
+background:url('../../assets/images/circle.png');
+}
+
+
+
+    .toplinks{
+        top:67px;
+       float:right;
+        font: normal normal normal 25px/34px Open Sans;
+        letter-spacing: 0px;
+        position: relative;
+        opacity: 1;
+    
+    }
+
+
+
+.toplinks a {
+    height: 34px;
+    text-decoration: none;
+    padding: 0 8px;
+    color: #222222;
+}   
+
+
+.logo{
+    top: 27px;
+    left: 120px;
+    width: 123px;
+    height: 123px;
+    opacity: 1;
+    float:left;
+}
+.circle{
+    
+    z-index: -1;
+    float:right;
+}
